@@ -1,0 +1,11 @@
+revenue:        EOY AMC revenue
+admissions:     revenue from ticket sales
+food:           revenue from concessions
+other:          revenue from other theaters
+PL:             net loss (profit)
+us visits:      Number of US tickets sold
+visits:         Total number of tickets sold world wide
+us t:           The average price for a US ticket that year
+int t:          The average price for a ticket world wide
+us f:           The average amount spent per patron on concessions in the US
+int f:          The average amount spent per patron on concessions world wide
