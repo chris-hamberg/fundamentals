@@ -1,0 +1,6 @@
+DBO:        Total industry wide domestic box office yearly revenue
+revenue:    AMC revenue for that year
+PL:         AMC net loss (profit)
+zDBO:       DBO zscores
+zRev:       revenue zscores
+zPL:        PL zscores
