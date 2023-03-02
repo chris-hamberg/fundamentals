@@ -1,0 +1,19 @@
+Zx = "DBO gross" z-scores
+Zy = "earnings" z-scores
+
+Pearsons Correlation Coefficient: 0.9066831913698025
+(clean data: idx 24, which is Q1 of 2020, is removed)
+
+Pearsons Correlation Coefficient: 0.6122657603486271
+(includes Q1 2020)
+
+
+
+Zx = "DBO gross" z-scores
+Zy = "earnings" z-scores
+
+Pearsons Correlation Coefficient: 0.7683627729067967
+(clean data: idx 24, which is Q1 of 2020, is removed)
+
+Pearsons Correlation Coefficient: 0.7641393502250177
+(includes Q1 2020)
