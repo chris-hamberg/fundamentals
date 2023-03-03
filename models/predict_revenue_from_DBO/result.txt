@@ -1,0 +1,4 @@
+The Pearsons Correlation Coefficient is: 0.9878795895767283
+
+According to this model the projected 2023 AMC revenue will be $4,366,103,653
+based on a $9B domestic box office.

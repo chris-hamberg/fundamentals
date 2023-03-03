@@ -1,0 +1,4 @@
+Pearsons Correlation Coefficient: 0.8997017164327481
+
+According to this model AMC would require approximately $5,643,476,220 in yearly 
+revenue to be net profitable.

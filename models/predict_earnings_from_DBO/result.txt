@@ -1,0 +1,4 @@
+Pearsons Correlation Coefficient: 0.9066831913698025
+
+According to this model AMC would require approximately $11,326,710,440 in 
+yearly Domestic Box Office to be net profitable.
