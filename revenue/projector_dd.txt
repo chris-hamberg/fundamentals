@@ -1,8 +1,0 @@
-DBO:        EOY domestic box office
-revenue:    EOY AMC revenue
-PL:         AMC net loss (profit)
-usTickets:  The number of tickets sold in the US
-tPrice:     The average price for tickets sold in the US
-tRev:       The total amount of revenue made from US ticket sales
-tRev/r:     tRev / revenue
-tRev/DBO:   tRev / DBO
