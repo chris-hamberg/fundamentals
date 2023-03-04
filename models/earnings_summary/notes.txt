@@ -1,0 +1,39 @@
+There are 2 different models used to predict earnings from domestic box offic.
+The first model first predicts revenue, and from revenue predicts earnings.
+The second model predicts earnings directly from DBO. All predictions are 
+constructed by linear regression.
+
+The second model is slightly more accurate. So we predict directly from DBO. 
+rssd is the residual squares standard deviation on the regression. From DBO 
+there is an approximate 98% chance that the actual earnings will fall within the 
+range of "-(2 rssd)" to "+(2 rssd)", and an approximate 68% chance that the 
+actual earnings will fall within the range of "-rssd" to "+rssd". The predicted 
+actual earnings from this model is "earnings".
+
+Earnings predictions between the two models can be compared on columns
+"earnings (Model 1)" and "earnings (Model 2)" in the first table for the purpose
+of assessing accuracy of the models. Model 2 is more accurate than Model 1.
+
+For Model 1:
+
+First, Model 1 uses a linear regression on DBO to revenue, to predict revenue.
+This sub-model is extremely accurate. The Pearsons Correlation Coefficient is: 
+0.9878795895767283, and the Coefficient of Determination, 
+r**2 = 0.9759060835022852. That is, 98% of the linear relationship (
+DBO -> revenue,) explains revenue. From predicted revenue, earnings is 
+predicted. For revenue to earnings Pearsons Correlation Coefficient is: 
+0.8997017164327481, and the Coefficient of Determination, 
+r**2 = 0.8094631785520329. That is, 81% of the linear relationship 
+(revenue -> earnings,) can explain earnings
+
+Again, Model 2, predicting earnings from DBO, is more accurate, so Model 2 is 
+the model that we ultimately use. The Pearsons Correlation Coefficient is: 
+0.9066831913698025, and the Coefficient of Determination, 
+r**2 = 0.8220744095125301. That is, 82% of the linear relationship 
+(DBO -> profits,) can explain earnings.
+
+The residual standard deviation rho about the least-squares line for Model 2 is
+111,259,102.882163 compared to the sample standard deviation
+259,856,663.12245965. Normality test pvalue = 9.25190417852916 * 10^(-9)
+
+This model has very strong predictive power.
