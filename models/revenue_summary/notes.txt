@@ -4,18 +4,18 @@ as a percentage of DBO, called market share of DBO (in terms of US ticket
 sales.) The market share is divided by the average percentage of revenue,
 and multiplied by 100 to get the estimated revenue.
 
-The second model is the linear regression on domestic box office versus 
-revenues. rsd is the residual squares standard deviation on the regression.
-From DBO, there is an approximate 98% chance that actual revenue will fall 
-within the range of "rev -(2rsd)" to "rev +(2rsd)", and an approximate 68%
-chance that actual revenue will fall within the range of "rev -rsd" to 
-"rev +rsd". The predicted actual revenue from this model is rev.
+The second, and more accurate  model is the linear regression on domestic box 
+office versus revenues. rssd is the residual squares standard deviation on the 
+regression. From DBO, there is an approximate 98% chance that actual revenue 
+will fall within the range of "-(2 rssd)" to "+(2 rssd)", and an approximate 68%
+chance that actual revenue will fall within the range of "-rssd" to 
+"+rssd". The predicted actual revenue from this model is "revenue".
 
 Revenue predictions between the two models can be compared on columns 
-"revenue (Model 1)" and "(Model 2)" to assess the accuracy of the models. 
-Model 2 is more accurate than Model 1. 
+"revenue (Model 1)" and "revenue (Model 2)" in the first table for the purpose
+of assessing the accuracy of the models. Model 2 is more accurate than Model 1. 
 
-Model 1 was back tested against the data, and produced a resonable estimate.
+Model 1 was back tested against the dataset, and produced a resonable estimate.
 
 For Model 2:
 
@@ -29,7 +29,8 @@ The residual standard deviation rho about the least-squares line is
 471,794,214.5167205. Proportional to mean revenue the residual error is
 0.0758435960125316. Normality test p-value = 3.269664005259733 * 10^(-5)
 
-Thus, we can expect that the predictive power of Model 2 is extremely reliable.
+Thus, we can expect that the predictive power of Model 2 must be extremely 
+reliable.
 
 Next we shall infer from this revenue prediction, a prediction on earnings, and 
 then compare that prediction with a prediction on earnings directly from DBO.

@@ -17,7 +17,7 @@ def build():
     rssdM3 = 128006839.0372937
     rssdM4 = 111259102.882163
 
-    X = synthetic_DBO = np.array(list(range(7000000000, 12000000000, 
+    X = synthetic_DBO = np.array(list(range(7000000000, 13500000000, 
         500000000)))
 
     sM1 = market_share       = M1.loc[2014]["Market Share"]
