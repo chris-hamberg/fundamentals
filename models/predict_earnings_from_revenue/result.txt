@@ -1,4 +1,8 @@
 Pearsons Correlation Coefficient: 0.8997017164327481
 
+The Coefficient of Determination, r**2 = 0.8094631785520329
+That is, 81% of the linear relationship (revenue -> earnings,) explains 
+earnings.
+
 According to this model AMC would require approximately $5,643,476,220 in yearly 
 revenue to be net profitable.

@@ -1,4 +1,7 @@
 The Pearsons Correlation Coefficient is: 0.9878795895767283
 
+The Coefficient of Determination, r**2 = 0.9759060835022852
+That is, 98% of the linear relationship (DBO -> revenue,) explains revenue.
+
 According to this model the projected 2023 AMC revenue will be $4,366,103,653
 based on a $9B domestic box office.

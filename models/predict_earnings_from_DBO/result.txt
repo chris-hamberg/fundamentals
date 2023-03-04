@@ -1,4 +1,7 @@
 Pearsons Correlation Coefficient: 0.9066831913698025
 
+The Coefficient of Determination, r**2 = 0.8220744095125301
+That is, 82% of the linear relationship (DBO -> profits,) explains earnings.
+
 According to this model AMC would require approximately $11,326,710,440 in 
 yearly Domestic Box Office to be net profitable.
