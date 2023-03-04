@@ -3,5 +3,14 @@ Pearsons Correlation Coefficient: 0.9066831913698025
 The Coefficient of Determination, r**2 = 0.8220744095125301
 That is, 82% of the linear relationship (DBO -> profits,) explains earnings.
 
+The residual standard deviation rho about the least-squares line is 
+111,259,102.882163 compared to the sample standard deviation 
+259,856,663.12245965.
+
 According to this model AMC would require approximately $11,326,710,440 in 
-yearly Domestic Box Office to be net profitable.
+yearly Domestic Box Office omicron to be net profitable. More or less dependent 
+on rho. omicron predicts earnings. There is a 68% that earnings approximately 
+equals 0 +/- rho at omicron = $11,326,710,440. There is approximately a 98%
+chance that earnings approximately equals 0 +/- 2rho at 
+omicron = $11,326,710,440.
+

@@ -13,3 +13,6 @@ revenue divided by one hundred percent. We want to predict total revenue, so
 we solve for that by cross multiplication. Meanings that, The market share 
 divided percentage of revenue times one hundred is equal to total revenue as
 an estimate, following from domestic box office.
+
+Note that this is just a primative model to estimate revenue from DBO such that
+it can be possible to cross validate the linear regression model.
