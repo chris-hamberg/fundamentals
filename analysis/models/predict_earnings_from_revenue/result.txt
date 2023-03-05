@@ -1,0 +1,14 @@
+Pearsons Correlation Coefficient: 0.8997017164327481
+
+The Coefficient of Determination, r**2 = 0.8094631785520329
+That is, 81% of the linear relationship (revenue -> earnings,) explains 
+earnings.
+
+The residual standard deviation rho about the least-squares line is 
+128,006,839.0372937 compared to the sample standard deviation of 
+286,511,476.22373724. Normality test pvalue = 0.0003999979070341461
+
+According to this model AMC would require approximately $5,643,476,220 in yearly 
+revenue phi to be net profitable. phi determines earnings. phi at $5,643,476,220
+implies an approximate 68% chance earnings will be approximately 0 +/- rho, and 
+an approximate 98% chance earnings will be approximately 0 +/- 2rho.

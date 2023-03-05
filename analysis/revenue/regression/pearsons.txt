@@ -1,0 +1,2 @@
+The pearsons correlation coefficient between DBO, and revenue is 
+0.9878795895767283 in the predictor.csv table.

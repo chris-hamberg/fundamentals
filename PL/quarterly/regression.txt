@@ -1,8 +1,0 @@
-According to the model that predicts Net Profit (loss) from Revenue:
-AMC would require approximately $5,643,476,220 in yearly revenue to 
-be net profitable.
-
-
-According to the model that predicts Net Profit (loss) from Domestic Box Office:
-AMC would require approximately $11,326,710,440 in yearly Domestic Box Office
-to be net profitable.

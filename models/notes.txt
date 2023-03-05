@@ -1,9 +1,0 @@
-1) DBO -> Revenue -> Earnings
-2) DBO -> Earnings
-
-Cross Validate M1:M4
-Cross Validate M2:M3
-
-Compare predictions from redundant models in table
-
-Select most accurate model

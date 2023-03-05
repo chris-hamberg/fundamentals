@@ -1,0 +1,5 @@
+Pearsons Correlation Coefficent r
+
+r = .974 excluding 2014, 2017, and 2020
+
+r = .9 excluding 2014

@@ -1,0 +1,3 @@
+total gross:        Total industry wide Domestic Box Office revenue
+releases:           Total number of releases that year
+tickets:            Total number of tickets sold in DBO that year

@@ -1,8 +1,0 @@
-The table is in billions.
-
-DBO:	    Domestic box office.
--(2 rssd):  2 residual square standard deviations below the earnings prediction.
--rssd:      1 residual square standard deviation below the earnings prediction.
-earnings:   The earnings prediction based on linear regression.
-+rssd:	    1 residual square standard deviation above the earnings prediction.
-+(2 rssd):  2 residual square standard deviations above the earnings prediction.

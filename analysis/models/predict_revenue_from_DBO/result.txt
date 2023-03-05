@@ -1,0 +1,14 @@
+The Pearsons Correlation Coefficient is: 0.9878795895767283
+
+The Coefficient of Determination, r**2 = 0.9759060835022852
+That is, 98% of the linear relationship (DBO -> revenue,) explains revenue.
+
+The residual standard deviation rho about the least-squares line is 
+74,878,802.26825552 compared to the sample standard deviation of 
+471,794,214.5167205. Proportional to mean revenue the residual error is 
+0.0758435960125316. Normality test pvalue = 3.269664005259733e-05
+
+According to this model there is an approximate 68% chance that projected 2023 
+AMC revenue will be within $4,366,103,653 +/- rho, and a 98% chance that 
+projected 2023 AMC revenue will be within $4,366,103,653 +/- 2rho. Based on a 
+$9B domestic box office.
