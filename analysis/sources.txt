@@ -1,4 +1,5 @@
-https://investor.amctheatres.com/financial-performance/
-https://www.boxofficemojo.com/
-https://www.the-numbers.com/market/
-https://sharesoutstandinghistory.com/amc/
+investor.amctheatres.com/financial-performance/
+boxofficemojo.com/
+the-numbers.com/market/
+sharesoutstandinghistory.com/amc/
+finance.yahoo.com/quote/AMC/history?p=AMC
