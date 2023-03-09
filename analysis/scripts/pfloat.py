@@ -5,20 +5,26 @@ import math
 df = []
 
 
-def pfloat(f1, f2, f4, plt, df):
+def pfloat(f0, f1, f2, f3, f4, scale, plt, df):
 
     # a = pi r^2
     # a / pi = r^2
     # sqrt(a / pi) = r
-    
-    scale = 40000
 
     area = df.loc[0].float
+
+    # The original float size
     r1 = math.sqrt(area / math.pi) / scale
+
+    # Size increase from 2016 through 2019
     r2 = math.sqrt((area * f1) / math.pi) / scale
-    area = df.loc[4].float
-    r3 = math.sqrt((area * f2) / math.pi) / scale
-    area = df.loc[0].float
+
+    # from 2016 through 2022
+    #area = df.loc[4].float
+    r3 = math.sqrt((area * f3) / math.pi) / scale
+
+    # if rsc passes
+    #area = df.loc[0].float
     r4 = math.sqrt((area * f4) / math.pi) / scale
 
 
